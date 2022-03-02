@@ -4,7 +4,7 @@ subtitle: Team Members - Ian Morton, Oscar Fawcett, Yesh Munagala, Emily Przykuc
 ---
 
 ## Description
-This is the webpage for the group machine learning proejct for STOR 565.
+This is the webpage for the P-Hackers machine learning project for STOR 565.
 
 ## Weekly Logs
 Log 03/03/2022: <a href="The_P-Hackers_03-02-2022.pdf" target="_blank">log</a>  
