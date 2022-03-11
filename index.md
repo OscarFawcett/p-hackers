@@ -12,7 +12,8 @@ Log 03/24/2022:
 Log 04/07/2022:  
 
 ## Project Proposal
-Our Project proposal can be found <a href="" target="_blank">here</a>.
+Our Project proposal can be found <a href="P-Hackers-Project-Proposal.html " target="_blank">here</a>.
+
 ## Code
 
 ## Results
