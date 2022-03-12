@@ -2,7 +2,7 @@
 title: P-Hackers
 subtitle: Team Members - Ian Morton, Oscar Fawcett, Yesh Munagala, Emily Przykucki, Weston Murdock
 ---
-
+Ian Morton, Oscar Fawcett, Yesh Munagala, Emily Przykucki, Weston Murdock  
 ## Description
 This is the webpage for the P-Hackers machine learning project for STOR 565.
 
