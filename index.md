@@ -8,7 +8,7 @@ This is the webpage for the P-Hackers machine learning project for STOR 565.
 
 ## Weekly Logs
 Log 03/03/2022: <a href="The_P-Hackers_03-02-2022.pdf" target="_blank">log</a>  
-Log 03/24/2022:  
+Log 03/24/2022: <a href="The_P-Hackers_03-24-2022.pdf" target="_blank">log</a>  
 Log 04/07/2022:  
 
 ## Project Proposal
