@@ -14,12 +14,12 @@ Log 04/07/2022: <a href="The_P-Hackers_04-07-2022.pdf" target="_blank">log</a>
 Our Project proposal can be found <a href="P-Hackers-Project-Proposal.html " target="_blank">here</a>.
   
 ## Code
-Data Cleaning: <a href="" target="_blank">code</a>.
-KNN Models: <a href="" target="_blank">code</a>.
-LDA/QDA Models: <a href="" target="_blank">code</a>.
-Random Forest Models: <a href="" target="_blank">code</a>.
-Logistic Regression Models: <a href="" target="_blank">code</a>.
-Naive Bayes Models: <a href="" target="_blank">code</a>.
+Data Cleaning: <a href="" target="_blank">code</a>.  
+KNN Models: <a href="" target="_blank">code</a>.  
+LDA/QDA Models: <a href="" target="_blank">code</a>.  
+Random Forest Models: <a href="" target="_blank">code</a>.  
+Logistic Regression Models: <a href="" target="_blank">code</a>.  
+Naive Bayes Models: <a href="" target="_blank">code</a>.  
 Neural Net Models: <a href="" target="_blank">code</a>.
   
 ## Results
