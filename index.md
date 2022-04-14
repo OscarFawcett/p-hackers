@@ -15,7 +15,7 @@ Our Project proposal can be found <a href="P-Hackers-Project-Proposal.html" targ
   
 ## Code
 Data Cleaning: <a href="Data-Importing-and-Cleaning.html" target="_blank">code</a>.  
-KNN Models: <a href="" target="_blank">code</a>.  
+KNN Models: <a href="KNN-Models.html" target="_blank">code</a>.  
 LDA/QDA Models: <a href="" target="_blank">code</a>.  
 Random Forest Models: <a href="" target="_blank">code</a>.  
 Logistic Regression Models: <a href="" target="_blank">code</a>.  
