@@ -18,7 +18,7 @@ Data Cleaning: <a href="Data-Importing-and-Cleaning.html" target="_blank">code</
 KNN Models: <a href="KNN-Models.html" target="_blank">code</a>.  
 LDA/QDA Models: <a href="" target="_blank">code</a>.  
 Random Forest Models: <a href="" target="_blank">code</a>.  
-Logistic Regression Models: <a href="" target="_blank">code</a>.  
+Logistic Regression Models: <a href="Ordinal-Logistic-Regression-Models.html" target="_blank">code</a>.  
 Naive Bayes Models: <a href="" target="_blank">code</a>.  
 Neural Net Models: <a href="" target="_blank">code</a>.
   
