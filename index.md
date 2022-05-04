@@ -23,4 +23,4 @@ Naive Bayes Models: <a href="" target="_blank">code</a>.
 Neural Net Models: <a href="" target="_blank">code</a>.
   
 ## Results
-Our final report can be find <a href="P-Hackers Final Report.pdf target="_blank">code</a>.
+Our final report can be find <a href="P-Hackers Final_Report.pdf" target="_blank">here</a>.
